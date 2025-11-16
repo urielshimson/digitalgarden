@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-is-a-digital-garden/"}
+{"dg-publish":true,"permalink":"/what-is-a-digital-garden/","created":"2025-11-16T13:56:39.720+05:30","updated":"2025-11-16T14:00:02.937+05:30"}
 ---
 
 
